@@ -13,7 +13,9 @@
 }
 
 body{
-    background-color: darkturquoise;
+    /*background-color: darkturquoise;*/
+    background-image: url("Background_image.png");
+    background-size: cover;
 }
 
 h1{
